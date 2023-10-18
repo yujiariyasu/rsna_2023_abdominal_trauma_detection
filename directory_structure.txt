@@ -1,0 +1,14 @@
+.
+./input
+./input/segmentation_3d
+./input/segmentation_3d/image
+./input/segmentation_3d/mask
+./results
+./scripts
+./src
+./src/lightning
+./src/lightning/lightning_modules
+./src/lightning/data_modules
+./src/utils
+./src/utils/augmentations
+./src/models
