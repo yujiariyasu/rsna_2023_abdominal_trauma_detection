@@ -5,7 +5,7 @@
 pip install -r requirements.txt
 ```
 
-data download
+## data download
 - competition data
 - png data from theo
 
@@ -16,7 +16,7 @@ cd input
 
 ## train & inference 3d segmentation
 ```
-cd ../script
+cd script
 . train_3d_segmentation.sh
 . inference_3d_segmentation.sh
 ```
@@ -45,9 +45,7 @@ python search_weights.py
 ```
 
 ## inference
-```
-see 
-```
+see https://www.kaggle.com/code/yujiariyasu/3rd-place-inf-code#3d-segmentation
 
 hardware:
 CPU Intel Xeon Gold 6148 Processor（27.5 MB L3 Cache, 2.40 GHz, 20 Cores, 40 Threads）×2
