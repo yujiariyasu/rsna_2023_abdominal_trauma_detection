@@ -69,7 +69,5 @@ https://www.kaggle.com/datasets/yujiariyasu/class4-pretrain-288-n25-2segmodels-v
 https://www.kaggle.com/datasets/yujiariyasu/class0-gru-chaug-256-2segmodels-v3  
 https://www.kaggle.com/datasets/yujiariyasu/rsna-3dseg-resnet50-v2  
 
-## Hardware
-CPU Intel Xeon Platinum 8360Y Processor (54 MB Cache, 2.4 GHz, 36 Cores, 72 Threads) ×2  
-GPU NVIDIA A100 for NVLink 40GiB HBM2 ×8  
-Memory 512GiB DDR4 3200MHz RDIMM  
+## GPU
+NVIDIA A100 for NVLink 40GiB HBM2 x 1
