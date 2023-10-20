@@ -45,13 +45,13 @@ python search_weights.py
 ```
 
 ## inference
-see https://www.kaggle.com/code/yujiariyasu/3rd-place-inf-code#3d-segmentation
+https://www.kaggle.com/code/yujiariyasu/3rd-place-inf-code
 
 ## weights & csvs
 Below is the finished item
 csvs:
 https://www.kaggle.com/datasets/yujiariyasu/rsna2023-csvs
-model weights:
+model weights:  
 https://www.kaggle.com/datasets/yujiariyasu/class23-maxvit-224-2segmodels-v4-pretrained
 https://www.kaggle.com/datasets/yujiariyasu/class0-masked-192-2segmodels-pad0-caformer
 https://www.kaggle.com/datasets/yujiariyasu/class-all-pad30-caformer
@@ -69,8 +69,7 @@ https://www.kaggle.com/datasets/yujiariyasu/class4-pretrain-288-n25-2segmodels-v
 https://www.kaggle.com/datasets/yujiariyasu/class0-gru-chaug-256-2segmodels-v3
 https://www.kaggle.com/datasets/yujiariyasu/rsna-3dseg-resnet50-v2
 
-
-my hardware:
-CPU Intel Xeon Gold 6148 Processor（27.5 MB L3 Cache, 2.40 GHz, 20 Cores, 40 Threads）×2
-GPU NVIDIA Tesla V100 SXM2 (16GiB HBM2)×4
-Memory  384GiB DDR4 2666MHz RDIMM
+## hardware
+CPU Intel Xeon Gold 6148 Processor（27.5 MB L3 Cache, 2.40 GHz, 20 Cores, 40 Threads）×2  
+GPU NVIDIA Tesla V100 SXM2 (16GiB HBM2)×4  
+Memory 384GiB DDR4 2666MHz RDIMM  
