@@ -49,25 +49,25 @@ https://www.kaggle.com/code/yujiariyasu/3rd-place-inf-code
 
 ## weights & csvs
 Below is the finished item
-csvs:
-https://www.kaggle.com/datasets/yujiariyasu/rsna2023-csvs
+csvs:  
+https://www.kaggle.com/datasets/yujiariyasu/rsna2023-csvs  
 model weights:  
-https://www.kaggle.com/datasets/yujiariyasu/class23-maxvit-224-2segmodels-v4-pretrained
-https://www.kaggle.com/datasets/yujiariyasu/class0-masked-192-2segmodels-pad0-caformer
-https://www.kaggle.com/datasets/yujiariyasu/class-all-pad30-caformer
-https://www.kaggle.com/datasets/yujiariyasu/class-all-pad30-maxvit-pretrained
-https://www.kaggle.com/datasets/yujiariyasu/class-all-pad30-convnext-pretrained
-https://www.kaggle.com/datasets/yujiariyasu/class-all-pad30-seresnext-crop2-pretrained
-https://www.kaggle.com/datasets/yujiariyasu/class-all-pad30-maxvit-crop2-pretrained
-https://www.kaggle.com/datasets/yujiariyasu/class1-lstm-112-20epochs-auc-v3-pretrained2-fix
-https://www.kaggle.com/datasets/yujiariyasu/class23-2segmodels-v3-xcit-small
-https://www.kaggle.com/datasets/yujiariyasu/class0-masked-192-2segmodels-pad0
-https://www.kaggle.com/datasets/yujiariyasu/class4-pretrain-288-n25-2segmodels-25epochs-v4
-https://www.kaggle.com/datasets/yujiariyasu/class4-pretrain-288-n25-2segmodels-v4
-https://www.kaggle.com/datasets/yujiariyasu/class4-pretrain-288-n25-2segmodels-25epochs-v3
-https://www.kaggle.com/datasets/yujiariyasu/class4-pretrain-288-n25-2segmodels-v3
-https://www.kaggle.com/datasets/yujiariyasu/class0-gru-chaug-256-2segmodels-v3
-https://www.kaggle.com/datasets/yujiariyasu/rsna-3dseg-resnet50-v2
+https://www.kaggle.com/datasets/yujiariyasu/class23-maxvit-224-2segmodels-v4-pretrained  
+https://www.kaggle.com/datasets/yujiariyasu/class0-masked-192-2segmodels-pad0-caformer  
+https://www.kaggle.com/datasets/yujiariyasu/class-all-pad30-caformer  
+https://www.kaggle.com/datasets/yujiariyasu/class-all-pad30-maxvit-pretrained  
+https://www.kaggle.com/datasets/yujiariyasu/class-all-pad30-convnext-pretrained  
+https://www.kaggle.com/datasets/yujiariyasu/class-all-pad30-seresnext-crop2-pretrained  
+https://www.kaggle.com/datasets/yujiariyasu/class-all-pad30-maxvit-crop2-pretrained  
+https://www.kaggle.com/datasets/yujiariyasu/class1-lstm-112-20epochs-auc-v3-pretrained2-fix  
+https://www.kaggle.com/datasets/yujiariyasu/class23-2segmodels-v3-xcit-small  
+https://www.kaggle.com/datasets/yujiariyasu/class0-masked-192-2segmodels-pad0  
+https://www.kaggle.com/datasets/yujiariyasu/class4-pretrain-288-n25-2segmodels-25epochs-v4  
+https://www.kaggle.com/datasets/yujiariyasu/class4-pretrain-288-n25-2segmodels-v4  
+https://www.kaggle.com/datasets/yujiariyasu/class4-pretrain-288-n25-2segmodels-25epochs-v3  
+https://www.kaggle.com/datasets/yujiariyasu/class4-pretrain-288-n25-2segmodels-v3  
+https://www.kaggle.com/datasets/yujiariyasu/class0-gru-chaug-256-2segmodels-v3  
+https://www.kaggle.com/datasets/yujiariyasu/rsna-3dseg-resnet50-v2  
 
 ## hardware
 CPU Intel Xeon Gold 6148 Processor（27.5 MB L3 Cache, 2.40 GHz, 20 Cores, 40 Threads）×2  
